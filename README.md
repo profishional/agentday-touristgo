@@ -6,16 +6,11 @@ Built for [Agents Day Lisbon](https://luma.com/agentsdaylisbon) — Viator Partn
 
 ## 🎥 Demo
 
-> **TODO:** drop Loom link here. Recording shows live catch flow at the Beato Innovation District (Unicorn Factory) — onboarding → camera → streamed vision verification → ✓ catch + Viator drop → leaderboard.
+Live catch at the **Beato Innovation District (Unicorn Factory)** in Lisbon — onboarding → camera → streamed vision verification → ✓ catch + Viator drop.
 
-<!-- Replace the line above with one of the snippets below once the recording is up:
+<video src="https://github.com/profishional/agentday-touristgo/raw/main/docs/media/demo.mp4" controls width="320"></video>
 
-Markdown link:
-[▶ Watch the 60-second demo on Loom](https://www.loom.com/share/REPLACE_ME)
-
-Or, for a clickable thumbnail (Loom gives you the embed image URL on the share page):
-[![Snapscape demo](https://cdn.loom.com/sessions/thumbnails/REPLACE_ME-with_play.gif)](https://www.loom.com/share/REPLACE_ME)
--->
+▶ [Open demo video directly](docs/media/demo.mp4) (if it doesn't render inline above)
 
 ## How it works
 
