@@ -13,6 +13,29 @@ export type Landmark = {
 // Hand-picked Lisbon scenic spots. Coordinates are approximate.
 export const LANDMARKS: Landmark[] = [
   {
+    id: "beato-innovation-district",
+    name: "Beato Innovation District",
+    emoji: "🏭",
+    description:
+      "The Unicorn Factory's home: a former military bakery (Manutenção Militar) reborn as Lisbon's startup campus. Look for the distinctive red-brick industrial warehouses, tall white smokestacks, sawtooth-roofed factory halls, and the adjacent Convento do Beato bell tower.",
+    lat: 38.737,
+    lng: -9.1097,
+    points: 120,
+    rarity: "legendary",
+    viatorSuggestions: [
+      {
+        title: "Lisbon Street Art & Eastside Tour (incl. Beato)",
+        price: "€32",
+        url: "https://www.viator.com/Lisbon-tours/Walking-Tours/d712-g3",
+      },
+      {
+        title: "Marvila & Beato Craft Beer Crawl",
+        price: "€45",
+        url: "https://www.viator.com/Lisbon-tours/Food-Wine-and-Nightlife-Tours/d712-g6",
+      },
+    ],
+  },
+  {
     id: "belem-tower",
     name: "Belém Tower",
     emoji: "🗼",
